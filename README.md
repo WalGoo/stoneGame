@@ -4,4 +4,5 @@
 
 대충 짠 다이어그램
 
-![img](https://user-images.githubusercontent.com/105087206/175440027-14a7d422-d430-4e66-adb8-5598b4a83592.gif)
+![stoneGame](https://user-images.githubusercontent.com/105087206/175440224-c8ceba71-ccc0-4acb-80ed-48c62268fdf6.jpg)
+
