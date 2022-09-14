@@ -1,4 +1,4 @@
-package com.toyproject.stonegame.entity;
+package com.toyproject.stonegame.entity.user;
 
 import javax.persistence.*;
 

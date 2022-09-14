@@ -1,4 +1,9 @@
 package com.toyproject.stonegame.repository;
 
-public class UserRepository {
+
+import org.springframework.data.web.JsonPath;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface UserRepository {
 }
